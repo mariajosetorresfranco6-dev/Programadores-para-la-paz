@@ -1,0 +1,10 @@
+Aprender a usar la terminal es un paso gigante para cualquier programador porque te da un control del sistema que no tienes con el ratón. 
+Al principio puede parecer complicado escribir comandos, pero te das cuenta de que es mucho más rápido para organizar carpetas y mover archivos. 
+Para un desarrollador es vital, ya que la mayoría de las herramientas profesionales y los servidores en la nube se manejan exclusivamente así. 
+Además, entender la terminal hace que usar Git sea mucho más lógico, porque entiendes dónde estás parada y qué estás enviando al repositorio. 
+Saber navegar por directorios sin ver carpetas visuales te ayuda a desarrollar una mejor estructura mental de cómo funciona tu proyecto por dentro. 
+No se trata solo de escribir código, sino de saber gestionar el entorno donde ese código vive y se ejecuta de forma eficiente. 
+Incluso para instalar librerías o corregir errores del sistema, la línea de comandos termina siendo tu mejor aliada en el día a día. 
+Al final, dominar estos comandos básicos te quita el miedo a la tecnología y te hace sentir que realmente tienes el mando de tu computadora. 
+Es una habilidad que separa a un usuario común de alguien que realmente entiende cómo funciona el software profesionalmente. 
+En conclusión, la terminal no es solo una pantalla negra con letras, es la herramienta más potente que tenemos para trabajar en equipo.
