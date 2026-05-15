@@ -1,0 +1,6 @@
+Aprendí que Git es una herramienta muy útil para guardar y organizar trabajos sin
+perder la información. También entendí que sirve para trabajar mejor en equipo y 
+para guardar cambios de proyectos paso a paso.
+En las clases aprendí cómo crear repositorios, subir archivos y manejar plataformas
+como GitHub. Al principio parecía difícil, pero poco a poco fui entendiendo
+cómo funciona y por qué es importante en la tecnología y la programación.
