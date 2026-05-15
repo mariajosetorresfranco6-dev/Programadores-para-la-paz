@@ -1,0 +1,11 @@
+Repositorio:
+Es el lugar donde se guardan todos los archivos y cambios de un proyecto.
+Ayuda a tener todo organizado y seguro.
+
+Comimt :
+Es guardar los cambios que uno hace en un trabajo o proyecto.
+Sirve para no perder el progreso y dejar todo actualizado.
+
+Push :
+Es subir los cambios de Git a GitHub.
+Así otras personas también pueden ver el trabajo actualizado.
