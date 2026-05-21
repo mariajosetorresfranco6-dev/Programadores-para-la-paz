@@ -1,0 +1,16 @@
+RESPUESTA 5:
+
+Respuesta: 
+1:Buscar la información
+2:Revisar la fuente
+3:Confirmar la noticia
+4:Comparar con otras fuentes confiables
+5:Verificar la fecha de publicación
+6:Analizar si la información es verdadera
+7:Pensar si puede afectar a otras personas
+8:Compartir la información de forma responsable
+9:Definir qué información necesitas
+10:Buscar en diferentes páginas o fuentes
+11:Leer y entender el contenido
+
+
