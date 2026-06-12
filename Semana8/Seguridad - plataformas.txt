@@ -1,0 +1,6 @@
+1. No exponer datos personales de los usuarios.
+2. Utilizar contraseñas seguras.
+3. Proteger las credenciales de acceso.
+4. Usar conexiones seguras.
+5. Limitar el acceso a información sensible.
+La seguridad digital es
