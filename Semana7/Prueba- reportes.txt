@@ -1,0 +1,1 @@
+Cuando consulto la ruta GET /reportes, puedo ver todos los reportes que han sido registrados anteriormente. La información aparece organizada en una lista y muestra el id, el tipo y la descripción de cada reporte. Esto permite revisar fácilmente los datos guardados mientras el servidor está funcionando.
